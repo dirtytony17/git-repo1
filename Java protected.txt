@@ -1,0 +1,5 @@
+public class Test1{
+String color;
+int id;
+String name;
+}
